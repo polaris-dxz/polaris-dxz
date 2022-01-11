@@ -5,6 +5,7 @@
 
 ### <div align="center">I'm PolarisDu(上沅兮), a full-stack developer 👨‍💻</div>  
 
+<div align="center">
 <!-- 掘金 -->
 <a href="https://juejin.cn/user/2840793775616168" target="_blank" style="display: inline-block;">
   <img
@@ -40,6 +41,7 @@
     align="center"
   />
 </a>
+</div>
   
 
 <br/>  
