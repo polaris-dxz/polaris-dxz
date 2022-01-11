@@ -88,11 +88,12 @@
 
 ## Connect with me  
   
-- juejin: https://juejin.cn/user/2840793775616168
-- zhihu: https://www.zhihu.com/people/polarisdu
-- yuque: https://www.yuque.com/polarisdu
-- bilibili: https://space.bilibili.com/1656343/
-- music.163: https://music.163.com/#/user/home?id=76634200
+<a href="https://music.163.com/#/user/home?id=76634200" target="_blank" style="display: inline-block;">
+  <img
+    src="https://img.shields.io/badge/%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90-%E4%B8%8A%E6%B2%85%E5%90%8C%E5%AD%A6-red" 
+    align="center"
+  />
+</a>
 
 <br/>  
 
@@ -120,10 +121,11 @@
 <br/>  
 
 <div align="center">
-            <a href="https://www.buymeacoffee.com/polarisdu" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
-                    align="center"
-                />
-            </a></div>
+  <a href="https://www.buymeacoffee.com/polarisdu" target="_blank" style="display: inline-block;">
+    <img
+      src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
+      align="center"
+    />
+  </a>
+</div>
 <br />
