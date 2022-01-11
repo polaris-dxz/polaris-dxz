@@ -4,6 +4,42 @@
   
 
 ### <div align="center">I'm PolarisDu(上沅兮), a full-stack developer 👨‍💻</div>  
+
+<!-- 掘金 -->
+<a href="https://juejin.cn/user/2840793775616168" target="_blank" style="display: inline-block;">
+  <img
+    src="https://img.shields.io/badge/%E6%8E%98%E9%87%91-%E4%B8%8A%E6%B2%85%E5%90%8C%E5%AD%A6-1e80ff" 
+    align="center"
+  />
+</a>
+<!-- 知乎 -->
+<a href="https://www.zhihu.com/people/polarisdu" target="_blank" style="display: inline-block;">
+  <img
+    src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-%E4%B8%8A%E6%B2%85%E5%90%8C%E5%AD%A6-06f" 
+    align="center"
+  />
+</a>
+<!-- 语雀 -->
+<a href="https://www.yuque.com/polarisdu" target="_blank" style="display: inline-block;">
+  <img
+    src="https://img.shields.io/badge/%E8%AF%AD%E9%9B%80-%E4%B8%8A%E6%B2%85%E5%85%AE-brightgreen" 
+    align="center"
+  />
+</a>
+<!-- bilibili -->
+<a href="https://music.163.com/#/user/home?id=76634200" target="_blank" style="display: inline-block;">
+  <img
+    src="https://img.shields.io/badge/bilibili-playgoose-fb7299" 
+    align="center"
+  />
+</a>
+<!-- 网易云 -->
+<a href="https://music.163.com/#/user/home?id=76634200" target="_blank" style="display: inline-block;">
+  <img
+    src="https://img.shields.io/badge/%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90-%E4%B8%8A%E6%B2%85%E5%90%8C%E5%AD%A6-red" 
+    align="center"
+  />
+</a>
   
 
 <br/>  
@@ -84,19 +120,6 @@
 </td></tr></table>  
 
 <br/>  
-
-
-## Connect with me  
-  
-<a href="https://music.163.com/#/user/home?id=76634200" target="_blank" style="display: inline-block;">
-  <img
-    src="https://img.shields.io/badge/%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90-%E4%B8%8A%E6%B2%85%E5%90%8C%E5%AD%A6-red" 
-    align="center"
-  />
-</a>
-
-<br/>  
-
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=yggdrasill-7c9&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
