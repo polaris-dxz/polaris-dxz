@@ -119,49 +119,6 @@ I'm a **Senior Frontend Engineer & Team Leader** with 8+ years of experience in 
 
 <br/>
 
-## 💼 Work Experience
-
-### 🏢 **SenseTime** (2024.7 - Present)
-**IaaS & MaaS Frontend Team Lead**
-- Led cloud platform architecture design for IaaS, PaaS, MaaS platforms
-- Built GitHub Codespaces-like cloud development environment with VSCode plugin
-- Implemented Bazel-based monorepo with 10+ custom rules for UmiJS, NextJS, React
-- Established GitLab CI + ArgoCD + Helm CI/CD pipeline with multi-AZ deployment
-
-### 🌍 **ONES** (2022.6 - 2023.10)
-**Senior Frontend Engineer - Global R&D**
-- Led overseas SaaS platform development and globalization strategy
-- Achieved 200%+ organic traffic growth through SEO optimization
-- Integrated MarTech/AdTech stack: Segment, Mixpanel, Google Analytics, Facebook Pixel
-- Built multi-datacenter architecture for global business expansion
-
-### 🦋 **Kingdee** (2021.5 - 2022.6)
-**Frontend Team Leader** (12-person team)
-- Developed enterprise-level scaffolding and low-code platform
-- Implemented engineering toolchain improving development efficiency by 60%
-- Established technical standards and team building processes
-
-## 🚀 Key Projects
-
-### 🔧 **Bazel Rules for Frontend**
-- Developed 10+ Bazel rules for UmiJS, NextJS, React, Webpack, Sass
-- Solved Bazel community frontend infrastructure gaps
-- Significantly improved build efficiency and developer experience
-
-### ☁️ **Cloud Development Environment**
-- Built GitHub Codespaces-like platform with VSCode plugin and Web interface
-- Implemented remote development environment management and resource scheduling
-- Supported multi-user concurrent development with environment isolation
-
-### 📊 **nCoV Pandemic Map**
-- Co-founded pandemic data visualization project
-- Used by Chinese Academy of Sciences for research
-- Featured by China Youth League media
-
-### 🔌 **Axios Snippets**
-- VSCode extension with 83,345+ downloads
-- Enhanced developer productivity with code snippets
-
 ## 🌟 Skills & Expertise
 
 ### **Cloud Platforms**
@@ -193,13 +150,6 @@ I'm a **Senior Frontend Engineer & Team Leader** with 8+ years of experience in 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=polaris-dxz&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>
-
-## 📫 Connect With Me
-
-- 📧 **Email**: [polarisdu@outlook.com](mailto:polarisdu@outlook.com)
-- 💼 **LinkedIn**: [Your LinkedIn]
-- 🐦 **Twitter**: [Your Twitter]
-- 📝 **Blog**: [掘金 - 上沅兮](https://juejin.cn/user/2840793775616168)
 
 ## 🎯 Current Focus
 
